@@ -1,0 +1,1788 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-09T12:01:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/674697804",
+        "addr:full": "Bus Stop, Elphinston Road, Kasamali Jumbo Marg, Khadki",
+        "addr:postcode": "411003",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Mawal",
+        "amenity": "hospital",
+        "name": "Dr. Babasaheb Ambedkar Cantonment General Hospital",
+        "name:etymology:wikidata": "Q231690",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8486994,
+          18.569025
+        ]
+      },
+      "id": "node/674697804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/678444711",
+        "amenity": "police",
+        "name": "Sambhaji Police Chowki",
+        "name:mr": "संभाजी पोलीस चौकी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8438921,
+          18.5131785
+        ]
+      },
+      "id": "node/678444711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/865849506",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411007",
+        "addr:street": "New DP Road",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Sanjeevani Vitalife Medipoint Hospital",
+        "name:en": "Sanjeevani Vitalife Medipoint Hospital",
+        "name:hi": "संजीवनी विटालाईफ मेडिपॉईंट हॉस्पिटल",
+        "name:mr": "संजीवनी विटालाईफ मेडिपॉईंट हॉस्पिटल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8022626,
+          18.5649263
+        ]
+      },
+      "id": "node/865849506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/865854267",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "LifeLine Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8062674,
+          18.5597445
+        ]
+      },
+      "id": "node/865854267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/871515219",
+        "amenity": "hospital",
+        "name": "Dr. Chowdhary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8082012,
+          18.5547291
+        ]
+      },
+      "id": "node/871515219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/871515522",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr. Bonagiri",
+        "name:mr": "डॉ भोणागिरी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8088556,
+          18.5554816
+        ]
+      },
+      "id": "node/871515522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1065055883",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:full": "A-35-36,Niranjan Complex,Sus Roadashan",
+        "addr:postcode": "411021",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "pharmacy",
+        "name": "Jeevan Deep Medicare Centre",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7838607,
+          18.5433023
+        ]
+      },
+      "id": "node/1065055883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1534465625",
+        "amenity": "police",
+        "name": "Deccan Gymkhana Police Chowki",
+        "name:mr": "डेक्कन जिमखाना पोलीस चौकी",
+        "source": "local"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8403808,
+          18.5141406
+        ]
+      },
+      "id": "node/1534465625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1743974394",
+        "addr:full": "Chikhalwadi, Bopodi, Pune",
+        "addr:postcode": "411020",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Pune City",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Shewale Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8325327,
+          18.5626652
+        ]
+      },
+      "id": "node/1743974394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2289023583",
+        "amenity": "police",
+        "name": "Balagandharva Police Station",
+        "name:mr": "बालगंधर्व पोलीस स्थानक"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8478417,
+          18.5222358
+        ]
+      },
+      "id": "node/2289023583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2410718625",
+        "addr:city": "Pune",
+        "addr:housenumber": "1224",
+        "addr:postcode": "411030",
+        "addr:street": "Tatyasaheb Karandikar Path",
+        "amenity": "police",
+        "name": "Perugate Police Chowki",
+        "name:mr": "पेरूगेट पोलीस चौकी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8487755,
+          18.5113926
+        ]
+      },
+      "id": "node/2410718625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2420756045",
+        "amenity": "police",
+        "name": "Bavdhan Police Chowki",
+        "name:mr": "बावधन पोलीस चौकी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7795837,
+          18.5224956
+        ]
+      },
+      "id": "node/2420756045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2550695929",
+        "amenity": "police",
+        "name": "Narayan Peth Police Chowki",
+        "name:mr": "नारायण पेठ पोलीस चौकी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8478649,
+          18.5162004
+        ]
+      },
+      "id": "node/2550695929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2694489803",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411020",
+        "amenity": "police",
+        "name": "Khadki Police Station",
+        "name:mr": "खडकी पोलीस ठाणे"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8454253,
+          18.5571921
+        ]
+      },
+      "id": "node/2694489803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2921897064",
+        "addr:district": "Pune",
+        "addr:full": "904, Bhandarkar Road , Deccan Gymkhana",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Gupte Hospital Of Accurate Diagnostics Pvt Ltd",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8398724,
+          18.519051
+        ]
+      },
+      "id": "node/2921897064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2973466889",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "AIMS Hospital",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8106962,
+          18.5625409
+        ]
+      },
+      "id": "node/2973466889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3386030401",
+        "amenity": "police",
+        "name": "Prabhat Police Chowki",
+        "name:mr": "प्रभात पोलीस चौकी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8333062,
+          18.5145218
+        ]
+      },
+      "id": "node/3386030401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4547351989",
+        "amenity": "police",
+        "name:en": "Crime branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8448569,
+          18.5449382
+        ]
+      },
+      "id": "node/4547351989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832438811",
+        "addr:district": "Pune",
+        "addr:full": "Flat No - 2, Abhyudaya Apartment-771, Bhandarkar Road",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "laboratory",
+        "name": "Golwilkar Metropolis Heath Service (India) Pvt Ltd",
+        "name:mr": "गोळविलकर मेट्रोपोलिस",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8344155,
+          18.5181296
+        ]
+      },
+      "id": "node/5832438811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832579347",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Paranjape Hospital",
+        "name:mr": "परांजपे हॉस्पिटल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8460515,
+          18.5143979
+        ]
+      },
+      "id": "node/5832579347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6612854042",
+        "addr:city": "Pune",
+        "addr:full": "near Hotel Pride",
+        "addr:housenumber": "1671 - 75",
+        "addr:neighbourhood": "Shivaji Nagar",
+        "addr:postcode": "411005",
+        "addr:street": "Ganeshkhind Road",
+        "addr:suburb": "Narveer Tanaji Wadi",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology",
+        "name": "ONP Leela Hospital",
+        "operator": "ONP Hospitals",
+        "phone": "020 6721 6600;020 6721 6699;9373813199",
+        "website": "https://onphospitals.com",
+        "wikidata": "Q65057391",
+        "wikipedia": "en:ONP Hospitals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8468085,
+          18.5329215
+        ]
+      },
+      "id": "node/6612854042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618960830",
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:housenumber": "402/A",
+        "addr:neighbourhood": "Shivaji Co operative Housing Society",
+        "addr:postcode": "411016",
+        "addr:quarter": "Bhageerath",
+        "addr:street": "Janawadi Road",
+        "addr:suburb": "Gokhalenagar",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "oncology",
+        "name": "Seth Ramdas Shah Memorial Hospital and Research Centre",
+        "name:hi": "सेठ रामदास शहा मेमोरियल हॉस्पिटल आणि रिसर्च सेंटर",
+        "website": "https://www.sehat.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8284091,
+          18.5293628
+        ]
+      },
+      "id": "node/6618960830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7042981399",
+        "addr:district": "Pune",
+        "addr:full": "1066-A, Gokhale Road, Shivajinagar",
+        "addr:postcode": "411016",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Joglekar Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8336359,
+          18.5327524
+        ]
+      },
+      "id": "node/7042981399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7043003792",
+        "addr:district": "Pune",
+        "addr:full": "Plot No.13, Sr No 157, Behind Hotel Polka Dots, Parihar Chowk, Aundh",
+        "addr:postcode": "411007",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Parmar Multi Speciality Hospital and Maternity Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8072065,
+          18.5600564
+        ]
+      },
+      "id": "node/7043003792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7044819851",
+        "addr:district": "Pune",
+        "addr:full": "25-A, Karve Road, Campus Of Ayurved Ras-Shala Near Garware College",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Galaxy Care Laparoscopy Institute Pvt. Ltd.",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.837105,
+          18.5110031
+        ]
+      },
+      "id": "node/7044819851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7045274083",
+        "addr:district": "Pune",
+        "addr:full": "1123 B, Shanti-Prasad, Shivaji Nagar, Near Hotel Lalit Mahal, Model Colony",
+        "addr:postcode": "411016",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Punarvasu Chikitsalaya",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8423179,
+          18.5284781
+        ]
+      },
+      "id": "node/7045274083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7045980540",
+        "addr:district": "Pune",
+        "addr:full": "Niyoshi Park-Ii, Sanghvi Nagar, Opposite Dass Showroom, D.P. Road, Aundh",
+        "addr:postcode": "411007",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Latkar Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8132226,
+          18.5609006
+        ]
+      },
+      "id": "node/7045980540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7048167596",
+        "addr:district": "Pune",
+        "addr:full": "33/15B, Regent Chambers Opp Garware College Gate Karve Road",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Poona Laser Center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8381752,
+          18.5123701
+        ]
+      },
+      "id": "node/7048167596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7048881959",
+        "addr:district": "Pune",
+        "addr:full": "9/7/20 A, Fergnsson College Road,Opp Hotel Vaishali,Next To Obc Bank",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Pramodini Urology Foundation",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8410217,
+          18.5199125
+        ]
+      },
+      "id": "node/7048881959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7049516396",
+        "addr:district": "Pune",
+        "addr:full": "1162/3, Crescent Exclusee, Shivaji Nagar",
+        "addr:postcode": "411005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Pune Fertility Center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8479868,
+          18.5287757
+        ]
+      },
+      "id": "node/7049516396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7049658153",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:full": "No. 778, Shivajinagar, Opposite Kamla Nehru Park",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "addr:street": "Bhandarkar Path",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Joshi Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8332118,
+          18.5171772
+        ]
+      },
+      "id": "node/7049658153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050060080",
+        "addr:district": "Pune",
+        "addr:full": "Swojas Royal 116-B Erandawane It Lane",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Khares Eye Institute",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8317379,
+          18.5145168
+        ]
+      },
+      "id": "node/7050060080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050589614",
+        "addr:district": "Pune",
+        "addr:full": "555, Narayan Peth, N C Kelkar Road",
+        "addr:postcode": "411030",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ashakiran Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8474959,
+          18.5158253
+        ]
+      },
+      "id": "node/7050589614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7050627585",
+        "addr:district": "Pune",
+        "addr:full": "No. 695, Sadashiva Peth, ,Opposite Vijay Cinema,Laxmi Road",
+        "addr:postcode": "411030",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sant Dnyaneswar Medical Education Research Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8476971,
+          18.5137805
+        ]
+      },
+      "id": "node/7050627585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051344983",
+        "addr:district": "Pune",
+        "addr:full": "Vinayak, 128/1B, Paud Road",
+        "addr:postcode": "411038",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Vinayak Netralaya - Pune",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.817981,
+          18.5105851
+        ]
+      },
+      "id": "node/7051344983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7052346355",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:full": "251/252, Opp Bsnl Tel Exchange, Near Parihar Chowk, Aundh, Near Dav School",
+        "addr:housenumber": "251;252",
+        "addr:postcode": "411007",
+        "addr:state": "Maharashtra",
+        "addr:street": "Ramchandra Gayakwad Path",
+        "alt_name": "Sai Shree Orthopaedic Super Speciality and Joint Replacement Centre",
+        "amenity": "hospital",
+        "email": "info@saishreehospital.org",
+        "healthcare": "hospital",
+        "healthcare:speciality": "orthopaedics",
+        "name": "Sai Shree Orthopaedic Super Speciality and Joint Replacement Centre",
+        "name:hi": "साई श्री रुग्णालय",
+        "name:mr": "साई श्री रुग्णालय",
+        "phone": "+91 968 993 0608;+91 968 993 0612;+91 706 215 7062;+91 20 2588 8600;+91 20 6744 8600",
+        "source": "OpenGovernmentData",
+        "website": "https://www.saishreehospital.org",
+        "wikimedia_commons": "File:Saishree Orthopaedic Center.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8052712,
+          18.5601581
+        ]
+      },
+      "id": "node/7052346355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7052987873",
+        "addr:district": "Pune",
+        "addr:full": "Ganga Nagar",
+        "addr:postcode": "411001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr.Prakash Katariya Laser Cure",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8441311,
+          18.5223591
+        ]
+      },
+      "id": "node/7052987873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7055280594",
+        "addr:district": "Pune",
+        "addr:full": "Anjali Apartments, Vetalbaba Chowk,Shivaji Nagar",
+        "addr:postcode": "411016",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Om Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.830716,
+          18.5292449
+        ]
+      },
+      "id": "node/7055280594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7063077070",
+        "addr:district": "Pune",
+        "addr:full": "894, Venkatesh Apparrment, Off F. C. Road ,Deccan Gymkhana",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Paranjpe Eye Clinic and Eye Surgery Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8404001,
+          18.5183547
+        ]
+      },
+      "id": "node/7063077070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7073537781",
+        "addr:district": "Pune",
+        "addr:full": "39/25, Erandwane Behind Kaka Halwai Karve Road",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Deodhar Eye Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.836472,
+          18.5114494
+        ]
+      },
+      "id": "node/7073537781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7073537787",
+        "addr:district": "Pune",
+        "addr:full": "Shop no.1, OM hospital building Prashan, NDA Pashan Road",
+        "addr:postcode": "411021",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Om Hospital, Bavdhan",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7818475,
+          18.5164841
+        ]
+      },
+      "id": "node/7073537787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7073949844",
+        "addr:district": "Pune",
+        "addr:full": "1187/30 Off Ghole Road, Near Mahatma Phule Museum, Shivaji Nagar",
+        "addr:postcode": "411005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "check_date": "2024-10-31",
+        "name": "National Institute Of Ophthalmology",
+        "name:en": "National Institute Of Ophthalmology",
+        "name:mr": "निओ डोळ्यांचे रुग्णालय",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8148253,
+          18.5596864
+        ]
+      },
+      "id": "node/7073949844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7076609427",
+        "addr:district": "Pune",
+        "addr:full": "S. No. 32/2A, Erandwana, Behind Mehendale Garage, Near Hotel Abhishek, Gulwani Maharaj Strret",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Amai Charitable Trust Institute Of Urology",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8162401,
+          18.5550536
+        ]
+      },
+      "id": "node/7076609427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7076609433",
+        "addr:district": "Pune",
+        "addr:full": "101, Trikaya House Deendayal Hospital Lane F C Road",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Z Y - Vision",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8408494,
+          18.5247371
+        ]
+      },
+      "id": "node/7076609433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7079392093",
+        "addr:district": "Pune",
+        "addr:full": "759 / 53 Deccan Gymkhana",
+        "addr:postcode": "411001",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Shreeyash Hospital, Pune",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8418673,
+          18.5155666
+        ]
+      },
+      "id": "node/7079392093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7079411416",
+        "addr:district": "Pune",
+        "addr:full": "1148,Sadashiv Peth,Opposite Perugate",
+        "addr:postcode": "411030",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Manoj Clinic / Gore Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8487867,
+          18.5117788
+        ]
+      },
+      "id": "node/7079411416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7080205212",
+        "addr:district": "Pune",
+        "addr:full": "Chhatrapati Sambhaji Maharaj Rd, Pantancha Gate, Sadashiv Peth",
+        "addr:postcode": "411030",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Vishwaniranjan Eye Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8458276,
+          18.5113846
+        ]
+      },
+      "id": "node/7080205212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081227365",
+        "addr:district": "Pune",
+        "addr:full": "S.No. 251/3/11 & 252/1/2,OppositeAundh, Telephone Exchange,D.P.Road,Aundh",
+        "addr:postcode": "411007",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sanjeevan Maternity and Surgical Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8025528,
+          18.5593966
+        ]
+      },
+      "id": "node/7081227365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083324260",
+        "addr:district": "Pune",
+        "addr:full": "1206/4,OppositeSambhaji Park,K.P Kulkarni Road",
+        "addr:postcode": "411004",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centre For Laproscopy Surgery",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8452496,
+          18.5207937
+        ]
+      },
+      "id": "node/7083324260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7226727370",
+        "addr:district": "Pune",
+        "addr:full": "Laxmi Road, Narayan Peth, Pune, Maharashtra",
+        "addr:postcode": "411030",
+        "addr:state": "Maharashtra",
+        "addr:subdistrict": "Pune City",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sutika Seva Mandir",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.846551,
+          18.513913
+        ]
+      },
+      "id": "node/7226727370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7649461714",
+        "addr:district": "Pune",
+        "addr:full": "Shiv Shakti Complex, 2nd Floor, Baner Road, Pune",
+        "addr:postcode": "411045",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Gupte Hospital Extension Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.793639,
+          18.557773
+        ]
+      },
+      "id": "node/7649461714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7649461720",
+        "addr:district": "Pune",
+        "addr:full": "Dhanwantari Building, Baner Road, Pune",
+        "addr:postcode": "411045",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dhanwantari Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7895512,
+          18.5593096
+        ]
+      },
+      "id": "node/7649461720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7649461747",
+        "addr:district": "Pune",
+        "addr:full": "No.127, Plot 7, Lotus Court, ITI Road, Aundh, Near Tanishq at, Pune",
+        "addr:postcode": "411007",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr. Agarwals Eye Hospital",
+        "not:operator:wikidata": "Q17052044",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80838,
+          18.5535506
+        ]
+      },
+      "id": "node/7649461747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7649461763",
+        "addr:district": "Pune",
+        "addr:full": "Shop No. 108/7, Pride House, Pune University Road, Chattushringi, Shivajinagar, Pune",
+        "addr:postcode": "411016",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr. Shraddha Angal",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.829755,
+          18.540958
+        ]
+      },
+      "id": "node/7649461763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7649461796",
+        "addr:district": "Pune",
+        "addr:full": "Bus Stop, Elphinston Road, Kasamali Jumbo Marg, Khadki, Pune",
+        "addr:postcode": "411003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Dr. Babasaheb Ambedkar Cantonment General Hospital",
+        "name:etymology:wikidata": "Q231690",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8486366,
+          18.5687508
+        ]
+      },
+      "id": "node/7649461796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453320",
+        "addr:district": "Pune",
+        "addr:full": "405, Munjabacha Bole Road, Narayan Peth, Pune",
+        "addr:postcode": "411030",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Morya General Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8484343,
+          18.5147901
+        ]
+      },
+      "id": "node/7651453320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453326",
+        "addr:district": "Pune",
+        "addr:full": "722/Ab/5, Chandrama, Laxmi Park Colony, United Western Bank Building, Pune",
+        "addr:postcode": "411030",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sabane Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8434338,
+          18.5107027
+        ]
+      },
+      "id": "node/7651453326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453353",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:full": "1137/8, Lakaki Road, Rage Path, Model Colony, Shivajinagar, Pune",
+        "addr:housenumber": "29",
+        "addr:postcode": "411016",
+        "addr:state": "Maharastra",
+        "addr:street": "लकाकी रस्ता",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Bapat Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.842063,
+          18.530365
+        ]
+      },
+      "id": "node/7651453353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453369",
+        "addr:district": "Pune",
+        "addr:full": "1188, Limayewadi Road, Vishnu Bhuvan Society, Limayewadi, Sadashiv Peth, Pune",
+        "addr:postcode": "411030",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "योगेश हॉस्पिटल",
+        "name:en": "Yogesh Hospital",
+        "opening_hours": "24/7",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.847875,
+          18.510438
+        ]
+      },
+      "id": "node/7651453369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453379",
+        "addr:district": "Pune",
+        "addr:full": "695/A, Laxmi Road, Opposite Vijay Talkies, Sadashiv Peth, Pune",
+        "addr:postcode": "411030",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Shaishav Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8476204,
+          18.5137927
+        ]
+      },
+      "id": "node/7651453379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453385",
+        "addr:district": "Pune",
+        "addr:full": "Opp: Apollo Medicals, Model Colony, Shivaji Nagar, Near Senapati Bapat Road, Pune",
+        "addr:postcode": "411016",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Swanand Maternity Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8339823,
+          18.5297435
+        ]
+      },
+      "id": "node/7651453385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453390",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:full": "1021/22, Sadashiv Peth Road, Nagnath Par, Sadashiv Peth, Pune",
+        "addr:housenumber": "1021/22",
+        "addr:postcode": "411030",
+        "addr:state": "Maharastra",
+        "addr:street": "Sadashiv Peth Houd",
+        "amenity": "hospital",
+        "healthcare:speciality": "CONSULTANT_OBSTETRICIAN_AND_GYNAECOLOGIST",
+        "name": "Shintre Hospital",
+        "source": "Local Knowledge",
+        "website": "https://www.shintrehospital.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8499324,
+          18.5122403
+        ]
+      },
+      "id": "node/7651453390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453393",
+        "addr:district": "Pune",
+        "addr:full": "VG Kothari Path, Narayan Peth, Pune",
+        "addr:postcode": "411030",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kalavati Mavale Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8464127,
+          18.5150421
+        ]
+      },
+      "id": "node/7651453393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453399",
+        "addr:district": "Pune",
+        "addr:full": "Plot No. 557 / 1, 2 &3, Fergusson College Road, Bhamburda, Shivajinagar, Pune",
+        "addr:postcode": "411005",
+        "addr:state": "Maharastra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ASG Eye Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8436351,
+          18.528932
+        ]
+      },
+      "id": "node/7651453399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651453418",
+        "addr:district": "Pune",
+        "addr:full": "Janardhan Sadan, 1194/23, Ghole Road, Sud Nagar, Shivajinagar, Pune",
+        "addr:postcode": "411005",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "MJM Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8438216,
+          18.5245059
+        ]
+      },
+      "id": "node/7651453418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8266093820",
+        "addr:city": "Pune",
+        "addr:housenumber": "Flat No 04, 1st Floor",
+        "addr:postcode": "411004",
+        "addr:street": "Chatur apartments, Besides Maruti Suzuki showroom Near FTII, Law College Rd, Pune,, Deccan Gymkhana,",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "Dental_Surgeon",
+        "name": "Facethetics - Dental, Facial Cosmetics(BOTOX), & Hair Transplant Clinique",
+        "website": "https://www.facetheticspune.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8285827,
+          18.5136297
+        ]
+      },
+      "id": "node/8266093820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8273719055",
+        "addr:city": "Pune",
+        "addr:housenumber": "S. No. 7/3/B",
+        "addr:postcode": "411014",
+        "addr:street": "Gulmohor Society Kharadi",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "Orthopaedics;General_Laparoscopic_And_Bariatric_Surgery;Ophthalmology",
+        "name": "Shree Hospital",
+        "website": "http://www.shreehospital.com/kharadi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8144112,
+          18.5664237
+        ]
+      },
+      "id": "node/8273719055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8806123923",
+        "addr:district": "Nagpur",
+        "addr:full": "Khadki, Pune",
+        "addr:postcode": "411003",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "name": "Ordnance Factory Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8444489,
+          18.5607785
+        ]
+      },
+      "id": "node/8806123923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9295472627",
+        "addr:city": "Pune",
+        "addr:housenumber": "1233/A",
+        "addr:postcode": "411004",
+        "addr:street": "Apte Rd., Besides IDBI Bank, Opp. Kohinoor Hotel, Shivaji Nagar",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "internal_medicine;general_physician;diabetologist",
+        "name": "Joshi Hospital",
+        "operator": "Novosalus",
+        "operator:type": "private",
+        "website": "https://www.drabhijeetjoshi.co.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.842284,
+          18.5178773
+        ]
+      },
+      "id": "node/9295472627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9403075422",
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:postcode": "411045",
+        "addr:state": "Maharashtra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "fertility;maternity",
+        "name": "Benecare Superspeciality Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.777019,
+          18.5639725
+        ]
+      },
+      "id": "node/9403075422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9469034214",
+        "addr:city": "Pune",
+        "addr:postcode": "411021",
+        "addr:street": "Patil nagar road, Bavdhan",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Tirupati Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.774807,
+          18.5167814
+        ]
+      },
+      "id": "node/9469034214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172966014",
+        "amenity": "police",
+        "name": "Centre for Police Research - CPR,"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8224604,
+          18.540655
+        ]
+      },
+      "id": "node/10172966014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172977859",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Oyster and Pearl Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8472769,
+          18.5318931
+        ]
+      },
+      "id": "node/10172977859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172977865",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ghaisas ENT Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8423562,
+          18.5172397
+        ]
+      },
+      "id": "node/10172977865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172977866",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Phadke Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.843879,
+          18.5183149
+        ]
+      },
+      "id": "node/10172977866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172986709",
+        "addr:city": "Pune,Maharashtra, India",
+        "addr:postcode": "411030",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;internal;neurosurgery;neurology;cardiology",
+        "name": "Poona Hospital and Research Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8420437,
+          18.510644
+        ]
+      },
+      "id": "node/10172986709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172986710",
+        "addr:city": "Pune",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;ophthalmology",
+        "name": "DEENDAYAL MEMORIAL HOSPITAL",
+        "operator": "GOVT",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8411721,
+          18.5249802
+        ]
+      },
+      "id": "node/10172986710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10173005946",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Joshi Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8422853,
+          18.5179034
+        ]
+      },
+      "id": "node/10173005946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10173005947",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Prayag Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.842789,
+          18.5174841
+        ]
+      },
+      "id": "node/10173005947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219138027",
+        "addr:street": "Pashan-Bavdhan Road",
+        "amenity": "police",
+        "name": "bavdhandhan  Police Station",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7796133,
+          18.5225916
+        ]
+      },
+      "id": "node/10219138027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11581428805",
+        "addr:city": "PUNE",
+        "addr:district": "pune",
+        "addr:housenumber": "pmc garden",
+        "addr:postcode": "411045",
+        "addr:street": "Pancard Club Road oppo baner",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;gynaecology",
+        "name": "elite hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7712894,
+          18.5576766
+        ]
+      },
+      "id": "node/11581428805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13069733796",
+        "addr:city": "Bavdhan",
+        "addr:district": "Pune",
+        "addr:housenumber": "Second floor, Utsav Square, 203",
+        "addr:postcode": "411021",
+        "addr:street": "DSK Ranwara road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Tiny Sparkles Dental Clinic | Multispeciality & Pediatric Dental Clinic",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7741764,
+          18.521272
+        ]
+      },
+      "id": "node/13069733796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13629195812",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:housenumber": "101",
+        "addr:postcode": "411045",
+        "addr:street": "Blue Pearl Society, Behind The Mint and Royal Enfield Showroom Oppo. to Kapil Malhar",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "consultant_infertility_specialist",
+        "name": "Vedika Clinic",
+        "website": "https://www.drsmitadeo.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7924663,
+          18.5591805
+        ]
+      },
+      "id": "node/13629195812"
+    }
+  ]
+}
