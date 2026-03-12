@@ -15,8 +15,7 @@ export async function POST(request: NextRequest) {
     }
 
     // Try to call the Flask backend
-    const FLASK_BACKEND_URL = process.env.FLASK_BACKEND_URL || "http://localhost:5000"
-    
+    const FLASK_BACKEND_URL = "https://safepath-l728.onrender.com"
     try {
       const backendResponse = await fetch(`${FLASK_BACKEND_URL}/analyze-comment`, {
         method: "POST",
