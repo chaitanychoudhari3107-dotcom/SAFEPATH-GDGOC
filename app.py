@@ -215,7 +215,7 @@ def analyze_comment():
     try:
         prompt   = GEMINI_PROMPT.format(comment=comment)
         response = client.models.generate_content(
-            model="models/gemini-1.5-flash",
+            model="models/gemini-2.5-flash",
             contents=prompt
         )
         text     = response.text.strip()
@@ -313,7 +313,7 @@ Write in a friendly, reassuring tone. Be specific. Do not use bullet points.
 """
     try:
         response    = client.models.generate_content(
-            model="models/gemini-1.5-flash",
+            model="models/gemini-2.5-flash",
             contents=prompt
         )
         explanation = response.text.strip()
